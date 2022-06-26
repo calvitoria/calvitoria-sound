@@ -24,8 +24,8 @@ O objetivo deste projeto foi aprender mais sobre react, e posso dizer que me div
 <div>
 
 <div>
-   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/159945423-31deac3c-b0ce-4503-9b62-a2995284c583.png" />
+   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/175836381-600ed6e3-6313-4d8f-aace-4f954e82012a.png" />
 </div>
 
 
-<a href="https://www.linkedin.com/in/vitoria-meinerz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitoria-meinerz/" target="_blank"><img src="https://user-images.githubusercontent.com/95686401/175836447-c38b7d75-74e4-4546-b790-15e39fc37295.png" target="_blank"></a>
