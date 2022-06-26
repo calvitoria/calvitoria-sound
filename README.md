@@ -20,7 +20,7 @@ I made this project to learn more about react and expand my css and javascript k
 
 ### Bem vindo ao Calvitoria Sound! 
 O objetivo deste projeto foi aprender mais sobre react, e posso dizer que me diverti muito enquanto programava a aplicação! Adorei como ficou. Utilizei apenas css puro, sem nenhum framework. O design foi pensado para passar uma ideia mais 'vintage' mas moderna e contemporânea ao mesmo tempo. 
-#### 🚀 Estou começando a utilizar react, então sei que tenho muito o que aprender! Se você se sentir a vontade, adoraria recer feedbacks! 🚀
+#### 🚀 Estou começando a utilizar react, então sei que tenho muito o que aprender! Se você se sentir a vontade, adoraria receber feedbacks! 🚀
 <div>
 
 <div>
