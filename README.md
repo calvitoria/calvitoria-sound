@@ -7,7 +7,7 @@
 </div>
 
 ### Welcome to Calvitoria Sound! 
-I made this project to learn more about react and expand my css and javascript knowledge. I had so much fun developing it! I must say I loved the way it turned out to be. With the design, I had the goal to transmit something a bit 'vintage' looking, and at the same time, modern and contemporary. No css framework was used, only pure css.
+I made this project to learn more about react and expand my css and javascript knowledge. I had so much fun developing it! I must say I loved the way it turned out to be. With the design, I had the goal to transmit something a bit 'vintage' looking, and at the same time, modern and contemporary. No css framework was used, only pure css. *reminder: this was developed while student of Trybe! Some helper files were given by the course!*
 #### 🚀 Since I am new to react, I know I have much to learn! Therefore, feedbacks are much appreciated. 🚀
 
 <div>
